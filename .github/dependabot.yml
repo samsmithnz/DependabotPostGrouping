@@ -23,7 +23,7 @@ updates:
   - samsmithnz
   open-pull-requests-limit: 10
   groups:
-    main:
+    rootapp:
       patterns: ["*"]
       update-types: ["minor", "patch"]
 - package-ecosystem: github-actions
